@@ -4,6 +4,8 @@
 *.pyc
 *.pyo
 __pycache__
+ansible.cfg
+inventory
 
 # Build artifacts
 *.tar.gz
